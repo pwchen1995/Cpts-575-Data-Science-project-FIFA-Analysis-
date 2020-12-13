@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76225e59.chunk.css",
+    "main.js": "/static/js/main.74fc8533.chunk.js",
+    "main.js.map": "/static/js/main.74fc8533.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d575dc6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d575dc6.js.map",
+    "static/css/2.1900a56d.chunk.css": "/static/css/2.1900a56d.chunk.css",
+    "static/js/2.0930af9a.chunk.js": "/static/js/2.0930af9a.chunk.js",
+    "static/js/2.0930af9a.chunk.js.map": "/static/js/2.0930af9a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a430e0c84e59aafadefc1bc5675937f6.js": "/precache-manifest.a430e0c84e59aafadefc1bc5675937f6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1900a56d.chunk.css.map": "/static/css/2.1900a56d.chunk.css.map",
+    "static/css/main.76225e59.chunk.css.map": "/static/css/main.76225e59.chunk.css.map",
+    "static/js/2.0930af9a.chunk.js.LICENSE.txt": "/static/js/2.0930af9a.chunk.js.LICENSE.txt",
+    "static/media/AveAttemptsSeasonWise.png": "/static/media/AveAttemptsSeasonWise.fb82c515.png",
+    "static/media/AvePosSeasonWise.png": "/static/media/AvePosSeasonWise.d96d844e.png",
+    "static/media/WinLoseDraw.png": "/static/media/WinLoseDraw.2d5d7bf8.png",
+    "static/media/WinRate_SeasonWise.png": "/static/media/WinRate_SeasonWise.a74a58ba.png",
+    "static/media/WinningTrend.png": "/static/media/WinningTrend.16d17e3d.png",
+    "static/media/background.jpg": "/static/media/background.67f1a3d6.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d575dc6.js",
+    "static/css/2.1900a56d.chunk.css",
+    "static/js/2.0930af9a.chunk.js",
+    "static/css/main.76225e59.chunk.css",
+    "static/js/main.74fc8533.chunk.js"
+  ]
+}
